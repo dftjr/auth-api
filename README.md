@@ -1,4 +1,4 @@
-# [Heroku Link](https://dft-api-server.herokuapp.com)
+# [Heroku Link](https://dft-auth-api.herokuapp.com/)
 
 # UML
 
